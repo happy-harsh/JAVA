@@ -5,7 +5,7 @@ public class prac5 {
        do{
            sum=sum+x;
            x=x+2;
-       }while(x<=10);
+       }while(x<=20);
        System.out.println("Sum of first 10 even numbers is "+sum);
 
     }
