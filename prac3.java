@@ -1,6 +1,6 @@
 // 3 accept three numbers from user.compare them and declare the largest number (using if-self statement)
 import java.util.Scanner;
-public class prac4 {
+public class prac3 {
     public static void main(String[] args) {
         int a ,b ,c ;
         Scanner reader = new Scanner(System.in);
