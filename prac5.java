@@ -1,6 +1,6 @@
 //5 display multiplication table of 15 using while loop 
 import java.util.Scanner;
-public class prac6 {
+public class prac5 {
     public static void main(String[] args) {
         int i=1;
         Scanner read = new Scanner(System.in);
